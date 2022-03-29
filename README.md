@@ -10,4 +10,4 @@ Each Folder Is One Of Heraldry Containing Banner, Flag And Data
 
 ## Additional Argument
 
--v Verbose Mode
+-v        Verbose Mode
